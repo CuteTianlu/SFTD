@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SFTD/SFTD.vcxproj" Id="dba3e19f-1da7-48b8-b3e0-45b7a379787b" />
+</Solution>
